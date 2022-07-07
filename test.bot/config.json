@@ -1,6 +1,4 @@
 {
-	"openchat": "!",
-	"dalle_mini": "$",
-	"ugotit": "%",
-	"token": ""
+	"token": "",
+	"client_id": "994490028271075328"
 }
