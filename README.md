@@ -16,6 +16,7 @@ yarn add @discordjs/builders
 
 ## Run
 ```
+# config.json에 TOKEN, CLIENT_ID 입력
 node index.js
 ```
 
