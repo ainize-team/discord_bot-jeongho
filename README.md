@@ -26,4 +26,5 @@ node index.js
 - Cartoonizer : <code>/cartoonizer {image}</code>
 
 ## Demo
+![GIF 2022-07-08 오후 2-57-34](https://user-images.githubusercontent.com/62659407/177926581-5f1df23b-089e-468f-a042-c0fafc75db76.gif)
 
