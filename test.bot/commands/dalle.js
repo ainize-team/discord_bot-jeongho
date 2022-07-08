@@ -6,7 +6,7 @@ module.exports = {
         .setDescription('Draw a picture using your message!')
         .addStringOption(option => 
             option
-                .setName('input')
+                .setName('text')
                 .setDescription('Draw a picture using your message!')
                 .setRequired(true))        
 };

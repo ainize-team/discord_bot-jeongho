@@ -68,7 +68,7 @@ client.on('interactionCreate', async interaction => {
 
 	}
 
-	else if (interaction.commandName === 'ugotit') {
+	else if (interaction.commandName === 'ugatit') {
 
 		const url = interaction.options['_hoistedOptions'][0]['attachment']['attachment']; 
 		const fu = await fetch(url);

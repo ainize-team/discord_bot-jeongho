@@ -6,7 +6,7 @@ module.exports = {
         .setDescription('Change selfie cartoonize!')
         .addAttachmentOption(option => 
             option
-                .setName('input')
+                .setName('image')
                 .setDescription('Change selfie cartoonize!')
                 .setRequired(true))        
 };

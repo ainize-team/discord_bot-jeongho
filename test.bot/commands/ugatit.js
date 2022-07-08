@@ -2,11 +2,11 @@ const { SlashCommandBuilder } = require('@discordjs/builders');
 
 module.exports = {
     data: new SlashCommandBuilder()
-        .setName('ugotit')
+        .setName('ugatit')
         .setDescription('Change selfie to anime!')
         .addAttachmentOption(option => 
             option
-                .setName('input')
+                .setName('image')
                 .setDescription('Change selfie to anime!')
                 .setRequired(true))        
 };

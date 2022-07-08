@@ -5,7 +5,7 @@ module.exports = {
         .setName('openchat')
         .setDescription('Reply with your message!')
         .addStringOption(option => 
-            option.setName('input')
+            option.setName('text')
             .setDescription('Reply with your message!')
             .setRequired(true))        
 };
